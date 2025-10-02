@@ -1093,8 +1093,3 @@
                 transform: scale(1.2);
             }
         }
-
-        footer:hover {
-            transform: translateX(-50%) scale(1.05);
-            transition: transform 0.3s ease;
-        }
